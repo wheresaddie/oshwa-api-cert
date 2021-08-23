@@ -20,3 +20,6 @@ This extension is tested in Firefox. They may work in other browsers, if the bro
 To learn more about OSHWA certification and why it's important to utilize, see here: https://www.oshwa.org/2020/10/21/announcing-the-open-source-hardware-certification-api/
 Follow OSHWA 501c3 on Twitter: https://twitter.com/ohsummit
 
+# GNU General Public License v3.0
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. 
+
